@@ -2,7 +2,6 @@
 permalink: /alternatives/cards
 layout: splash
 title: Food processing
-toc: true
 cards_1:
   - title: "ProSumers using 3D printing processes"
     excerpt: "People produce their own food by using CD printing. They purchase different ingredients (pure ressources), get the program (= menue) from the internet and produce nice and very different meals on their own."
